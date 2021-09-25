@@ -1,5 +1,8 @@
 # LCSS2021_ActiveCellBalancing_StabilityAnalysis
 
+
+[![DOI](https://zenodo.org/badge/410101214.svg)](https://zenodo.org/badge/latestdoi/410101214)
+
 This repository contains the Matlab Simulink files used in the following paper 
 
 <a href="https://ieeexplore.ieee.org/document/9488286">M. S. Trimboli, A. K. de Souza and M. A. Xavier, "Stability and Control Analysis for Series-Input/Parallel-Output Cell Balancing System for Electric Vehicle Battery Packs," in IEEE Control Systems Letters, vol. 6, pp. 1388-1393, 2022, doi: 10.1109/LCSYS.2021.3097875.</a>
