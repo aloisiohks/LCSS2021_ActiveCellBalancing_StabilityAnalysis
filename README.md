@@ -10,5 +10,5 @@ This repository contains the Matlab Simulink files used in the following paper
 The simulation does not account the DC-DC converter dynamics because the goal of the paper above is to demonstrate closed-loop stability of the PID based active cell balancing architectire under different scenarios. If you would like to contribute to this simulink model by adding the DC-DC converters and other features, let me know.
 
 Issues to be fixed:
-- Istring is considered to be constant throught the simulation, It would be interesting to be able to use dynamic current profiles, such as UDDS profiles. That will be fixed at some point. You're welcome to help with that. 
+- Istring is considered to be constant throught the simulation, It would be interesting to be able to use dynamic current profiles, such as UDDS profiles. That will be added at some point. You're welcome to help with that. 
 - When the simulation is running, some warning messages about algebraic loops pops up on the console but I don't know how to fix that yet. 
